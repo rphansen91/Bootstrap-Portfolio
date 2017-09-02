@@ -1,0 +1,116 @@
+.nav-head {
+
+	font-size: px;
+	background: #4aaaa5;
+	color: white;
+	margin: 0;
+	padding: 15px 25px;
+	overflow: hidden;	
+	float: left;
+	
+	/*height: 30px;*/
+
+}
+
+body {
+	
+	background-image: url(../images/vintage-concrete.png);
+}
+
+.mainBody {
+
+	background: white;
+	
+}
+
+.body-head {
+
+	color: #4aaaa5;
+	padding: 0 0 0 25px;
+	margin: 0 0 0 -15px;
+}
+
+.headShot {
+
+	width: 200px;
+	height: auto;
+	float: left;
+}
+
+.footer {
+
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	height: 80px;
+	background: #666666;
+	width: 100%;
+	text-align: center;
+	border-top: thick solid #4aaaa5;
+	
+	font-size: 10px;
+	line-height: 80px;
+	z-index: 3;
+
+}
+	
+.connect-image {
+	
+	width: 50px;
+	height: auto;
+	float: left;
+
+}
+
+.connect-image:hover {
+
+	opacity: .5;
+}
+
+.portfolio-image{
+
+	width:100%;
+	
+}
+
+
+.image-holder {
+
+	display: inline-block;
+	position: relative;
+	overflow: auto;
+}
+
+.image-title {
+
+	background: #4aaaa5;
+	color: white;
+	width: auto;
+	text-align: center;
+	font-size: 16px;
+	z-index: 2;
+	position: absolute;
+	height: 40px;
+	line-height: 40px;
+	bottom: 25px;
+	right: 12px;
+	left: 12px;
+
+
+
+}
+
+.image-holder {
+	
+	display: inline-block;
+	position: relative;
+	padding: 12px;
+	
+}
+
+.body-content {
+
+	margin-bottom: 100px;
+}
+
